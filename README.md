@@ -1,8 +1,7 @@
 # ESToolBox
 > Embedded System ToolBox
 
-* MPC5646C
+** MPC5646C **
 
-**reg**
-
-> get the configuration of CAN registers|
+1. reg
+	get the configuration of CAN registers
