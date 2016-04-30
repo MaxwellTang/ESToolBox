@@ -5,4 +5,4 @@
 
 1. reg
 
-	get the configuration of CAN registers
+** get the configuration of CAN registers
